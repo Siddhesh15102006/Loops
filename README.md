@@ -1,4 +1,4 @@
-# 🧪 Experiment: Loops in C++
+# 🧪 Experiment 6 :- Loops in C++
 
 ## 💡 Objective:
 
